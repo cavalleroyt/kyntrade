@@ -1,0 +1,15 @@
+{
+  "name": "Kyntra Inspired Theme",
+  "colors": {
+    "bg": "#0f1720",
+    "panel": "#0f1720CC",
+    "accent": "#2b86ff",
+    "text": "#e6eef8"
+  },
+  "radius": 10,
+  "shadow": {
+    "blur": 22,
+    "opacity": 0.32
+  },
+  "notes": "Tema ejemplo — inspirado en Windows 11 pero con identidad propia. Usar con QML/Qt para aplicar estilos visuales."
+}
